@@ -53,7 +53,7 @@ vitals2risk/
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/vitals2risk.git
+git clone https://github.com/sandhiyab17/vitals2risk.git
 cd vitals2risk
 pip install -r requirements.txt
 ```
