@@ -79,10 +79,8 @@ xgboost
 ## Authors
 
 - Sandhiya B
-- Prasanthi S
-- Sanjay C
 
-Guided by Dr. B. Babu Madhavan (AI/ML Head) and Dr. K. Sangeetha (Senior Architect), Tamil Nadu e-Governance Agency (TNeGA), July 2025.
+
 
 ## References
 
